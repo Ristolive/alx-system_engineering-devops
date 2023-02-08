@@ -11,3 +11,4 @@
 10-back					 Changes the working directory to the previous one
 11-lists				 lists out all file from current directory and parent working directory
 12-file_type				 Prints the type of iamafile from /tmp
+13-symbolic_link			 Creates a symbolic link
