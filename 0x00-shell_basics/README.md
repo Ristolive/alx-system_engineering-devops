@@ -4,4 +4,4 @@
 3-listfiles				 list the files in the working directory in long format
 4-listmorefiles				 Display current directory contents including hidden files in a long format
 5-listfilesdigitonly			 Display current directory contents including hidden files with group ID in a long format
-
+6-firstdirectory			 Creates a directory named my_first_directory in the /tmp/ directory
